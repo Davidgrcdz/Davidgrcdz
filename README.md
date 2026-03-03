@@ -1,5 +1,3 @@
-# ¡Hola! Soy David García 👋
-
 Soy **graduado en Ciencia e Ingeniería de Datos** por la Universidad de Las Palmas de Gran Canaria (ULPGC). Mi perfil está fuertemente orientado a desentrañar el valor oculto en los datos, cubriendo todo su ciclo de vida: desde la extracción y limpieza, hasta el entrenamiento de modelos complejos.
 
 Este perfil de GitHub es mi laboratorio personal 🧪. Aquí documento mis prácticas, subo mis experimentos de código y comparto las bases de los desafíos que voy resolviendo.
