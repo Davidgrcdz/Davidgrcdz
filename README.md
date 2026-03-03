@@ -25,18 +25,22 @@ Mi ecosistema de trabajo se basa en las siguientes herramientas:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
-
-<br>
-
-### 📊 Mi Actividad en GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidgrcdz&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB&text_color=333333" alt="Estadísticas de GitHub" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
 
-### 📫 Contacto
+### 📫 ¡Conectemos!
 
-Si quieres ver el detalle formal de mi experiencia (mi CV completo), charlar sobre IA, o colaborar en algún proyecto de datos, **puedes encontrar mi perfil de LinkedIn en los enlaces de la izquierda**. ¡Estaré encantado de conectar!
+Si quieres ver el detalle formal de mi experiencia (mi CV completo), puedes encontrarme por aquí:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-garcía-díaz-7a1158196/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:davidgd4722gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
