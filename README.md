@@ -1,47 +1,42 @@
-
 # ¡Hola! Soy David García 👋
 
-Soy un desarrollador apasionado por el **Machine Learning, el Análisis de Datos y la Visión Artificial (Computer Vision)**. Me encanta explorar cómo los algoritmos pueden extraer información valiosa de imágenes, vídeos, audio y texto.
+Soy **graduado en Ciencia e Ingeniería de Datos** por la Universidad de Las Palmas de Gran Canaria (ULPGC). Mi perfil está fuertemente orientado a desentrañar el valor oculto en los datos, cubriendo todo su ciclo de vida: desde la extracción y limpieza, hasta el entrenamiento de modelos complejos.
 
-Actualmente, construyendo proyectos y mejorando mis habilidades en el ecosistema de la Inteligencia Artificial. 🚀
+Este perfil de GitHub es mi laboratorio personal 🧪. Aquí documento mis prácticas, subo mis experimentos de código y comparto las bases de los desafíos que voy resolviendo.
 
-### 🛠️ Tecnologías y Herramientas que manejo
+### 🧠 Mi enfoque principal
 
-A continuación, algunas de las tecnologías con las que trabajo habitualmente:
+* **Ingeniería y Limpieza de Datos:** Procesamiento de información en múltiples formatos, tratamiento de valores nulos, normalización y estructuración de *datasets* complejos para dejarlos listos para el análisis.
+* **Análisis Exploratorio y Estadística:** Uso de fundamentos estadísticos para entender la distribución de los datos, encontrar correlaciones y visualizar patrones o anomalías.
+* **Machine Learning:** Entrenamiento, ajuste de hiperparámetros y evaluación de modelos predictivos y de clasificación utilizando datos tabulares.
+* **Deep Learning & Visión Artificial:** Creación y entrenamiento de arquitecturas de redes neuronales (LSTM, TCN, Transformer) para resolver problemas de reconocimiento de imágenes, procesamiento multimedia y PLN.
 
-<div align="center">
+
+### 🛠️ Tecnologías y Herramientas
+
+Mi ecosistema de trabajo se basa en las siguientes herramientas:
+
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 🎯 Mis proyectos destacados
+<br>
 
-Te invito a echar un vistazo a mis repositorios fijados en la parte superior, donde destaco:
-* **⚽ Football Penalty Prediction:** Análisis de datos y Machine Learning para predecir lanzamientos de penaltis.
-* **👁️‍🗨️ Multimedia Processing:** Prácticas avanzadas de visión artificial, procesamiento de señales acústicas y análisis de vídeo.
-* **🧠 Procesamiento de Lenguaje Natural (PLN):** Implementación desde modelos clásicos (Bag of Words) hasta Transformers.
-* **🖼️ Redes Neuronales Convolucionales (CNN):** Experimentación y entrenamiento de modelos de Deep Learning.
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidgrcdz&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Davidgrcdz" />
-</div>
-
-### 📫 ¿Cómo contactar conmigo?
-
-Siempre estoy abierto a charlar sobre tecnología, datos o nuevas oportunidades. ¡Conectemos!
+### 📊 Mi Actividad en GitHub
 
 <div align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:TU-CORREO@EMAIL.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidgrcdz&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB&text_color=333333" alt="Estadísticas de GitHub" />
 </div>
+
+---
+
+### 📫 Contacto
+
+Si quieres ver el detalle formal de mi experiencia (mi CV completo), charlar sobre IA, o colaborar en algún proyecto de datos, **puedes encontrar mi perfil de LinkedIn en los enlaces de la izquierda**. ¡Estaré encantado de conectar!
