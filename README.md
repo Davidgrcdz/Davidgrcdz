@@ -32,7 +32,7 @@ Mi ecosistema de trabajo se basa en las siguientes herramientas:
 
 ---
 
-### 📫 ¡Conectemos!
+### 📫 Contacto
 
 Si quieres ver el detalle formal de mi experiencia (mi CV completo), puedes encontrarme por aquí:
 
